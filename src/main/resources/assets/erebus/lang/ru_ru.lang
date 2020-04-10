@@ -1,0 +1,1046 @@
+#PARSE_ESCAPES
+
+#########
+# ITEMS #
+#########
+
+# Materials
+item.erebus.materials.plate_exo.name=Экзоскелетовая пластина
+item.erebus.materials.jade.name=Нефрит
+item.erebus.materials.shard_bone.name=Костяной осколок
+item.erebus.materials.bamboo.name=Бамбук
+item.erebus.materials.compound_eyes.name=Фасеточные глаза
+item.erebus.materials.compound_lens.name=Линзы фасеточных очков
+item.erebus.materials.fly_wing.name=Крылышко мухи
+item.erebus.materials.petrified_wood.name=Окаменелое дерево
+item.erebus.materials.bio_velocity.name=Био-скорость
+item.erebus.materials.elastic_fibre.name=Эластичное волокно
+item.erebus.materials.wasp_sting.name=Жало осы
+item.erebus.materials.bamboo_shoot.name=Побег колоссального бамбука
+item.erebus.materials.red_gem.name=Редгем
+item.erebus.materials.bio_luminescence.name=Биолюминесценция
+item.erebus.materials.supernatural_velocity.name=Сверхъестественная скорость
+item.erebus.materials.altar_fragment.name=Фрагмент алтаря
+item.erebus.materials.reinforced_plate_exo.name=Усиленная экзоскелетовая пластина
+item.erebus.materials.glider_wing.name=Крыло планёра
+item.erebus.materials.scorpion_pincer.name=Жало скорпиона
+item.erebus.materials.camo_powder.name=Камуфляжный порошок
+item.erebus.materials.nectar.name=Нектар
+item.erebus.materials.honey_drip.name=Капля мёда
+item.erebus.materials.poison_gland.name=Ядовитая железа
+item.erebus.materials.mud_brick.name=Грязевой кирпич
+item.erebus.materials.whetstone_powder.name=Порошок точильного камня
+item.erebus.materials.dragonfly_wing.name=Крыло стрекозы
+item.erebus.materials.bluebell_petal.name=Лепесток колокольчика
+item.erebus.materials.papyrus.name=Папирус
+item.erebus.materials.enhanced_glider_wing.name=Зачарованное крыло планёра
+item.erebus.materials.repellent.name=Репеллент
+item.erebus.materials.mucus_charge.name=Заряд слизи
+item.erebus.materials.nettle_leaves.name=Листья крапивы
+item.erebus.materials.nettle_flowers.name=Цветы крапивы
+item.erebus.materials.dark_fruit_seeds.name=Семена тёмных фруктов
+item.erebus.materials.moss_ball.name=Шар мха
+item.erebus.materials.glowshroom.name=Светящийся гриб
+item.erebus.materials.plate_exo_rhino.name=Пластина жука-носорога
+item.erebus.materials.rhino_beetle_horn.name=Рог жука-носорога
+item.erebus.materials.ant_pheromones.name=Феромоны муравья
+item.erebus.materials.gaean_gem.name=Жемчуг гиана
+item.erebus.materials.crimson_heart.name=Багровое сердце
+item.erebus.materials.resin.name=Древестная смола
+item.erebus.materials.amber_star.name=Янтарная звезда
+item.erebus.materials.ingot_aluminium.name=Алюминиевый слиток
+item.erebus.materials.ingot_copper.name=Медный слиток
+item.erebus.materials.ingot_lead.name=Свинцовый слиток
+item.erebus.materials.ingot_silver.name=Серебряный слиток
+item.erebus.materials.ingot_tin.name=Оловянный слиток
+item.erebus.materials.gneiss_rock.name=Камень гнейс
+item.erebus.materials.hide_shroom.name=Грибная шкура
+item.erebus.materials.beetle_riding_kit.name=Снаряжение для езды на жуке
+item.erebus.materials.beetle_taming_amulet.name=Амулет жука
+item.erebus.materials.umbergolem_core.name=Торс умберголема
+item.erebus.materials.umbergolem_head.name=Голова умберголема
+item.erebus.materials.umbergolem_claw.name=Коготь умберголема
+item.erebus.materials.umbergolem_legs.name=Ноги умберголема
+item.erebus.materials.jade_berries.name=Нефритовые ягоды
+item.erebus.materials.bogmaw_root.name=Корень болота
+item.erebus.materials.hydrofuge.name=Гидрофьюдж
+item.erebus.materials.water_repellent.name=Водяной репеллент
+item.erebus.materials.smoothie_glass.name=Пустой стакан смузи
+item.erebus.materials.magma_crawler_eye.name=Глаз гусеницы магмы
+item.erebus.materials.stew_pot.name=Кастрюля для тушения
+item.erebus.materials.titan_stew.name=Неприготовленное мясо титана
+item.erebus.materials.force_key.name=Силовой ключ
+item.erebus.materials.soul_crystal.name=Кристалл душ
+item.erebus.materials.plate_zombie_ant.name=Пластина зомби муравья
+item.erebus.materials.stag_beetle_mandibles.name=Челюсть жука-оленя
+item.erebus.materials.terpsishroom.name=Терпси гриб
+item.erebus.materials.bamboo_pipe_wrench.name=Бамбуковый гаечный ключ
+item.erebus.materials.temple_rock.name=Камень храма
+
+# Food
+item.erebus.erebus_food.beetle_larva_raw.name=Личинка жука
+item.erebus.erebus_food.beetle_larva_cooked.name=Приготовленная личинка жука
+item.erebus.erebus_food.grasshopper_leg_raw.name=Лапка кузнечика
+item.erebus.erebus_food.grasshopper_leg_cooked.name=Приготовленная лапка кузнечика
+item.erebus.erebus_food.tarantula_leg_raw.name=Лапка тарантула
+item.erebus.erebus_food.tarantula_leg_cooked.name=Хрустящая лапка тарантула
+item.erebus.erebus_food.bamboo_soup.name=Суп из бамбука
+item.erebus.erebus_food.melonade.name=Мелонад
+item.erebus.erebus_food.melonade_sparkly.name=Блестящий мелонад
+item.erebus.erebus_food.larvae_on_stick.name=Личинка-на-палочке
+item.erebus.erebus_food.honey_sandwich.name=Медовый сэндвич
+item.erebus.erebus_food.dark_fruit.name=Тёмный фрукт
+item.erebus.erebus_food.titan_chop_raw.name=Сырая отбивная титана
+item.erebus.erebus_food.titan_chop_cooked.name=Приготовленная отбивная титана
+item.erebus.erebus_food.swamp_berries.name=Болотные ягоды
+item.erebus.erebus_food.cabbage.name=Капуста
+item.erebus.erebus_food.titan_stew_cooked.name=Тушеное мясо титана
+item.erebus.erebus_food.prickly_pear_raw.name=Сырой кактус опунции
+item.erebus.erebus_food.prickly_pear_cooked.name=Приготовленный кактус опунции
+item.erebus.erebus_food.dark_fruit_pie.name=Пирог из тёмного фрукта
+
+# Smoothies
+item.erebus.smoothie.green_tea_grasshopper.name=Смузи из зелёного чая с кузнечиком
+item.erebus.smoothie.money_honey.name=Cмузи из мёда линифиида
+item.erebus.smoothie.nothing_in_the_middle.name=Ничего в середине смузи
+item.erebus.smoothie.green_giant.name=Зелёный гигантский смузи
+item.erebus.smoothie.seedy_goodness.name=Зерновой божественный смузи
+item.erebus.smoothie.givin_me_the_blues.name=Смузи дающий мне блюз
+item.erebus.smoothie.hot_hot_baby.name=Горячий-горячий смузи
+item.erebus.smoothie.dont_meddle_with_the_nettle.name=Не вмешивайся в крапиву смузи
+item.erebus.smoothie.liquid_gold.name=Жидкий золотой смузи
+item.erebus.smoothie.bryufs_brew.name=Пивной смузи брюфа
+
+# Armour, Weapons and Tools
+item.erebus.bamboo_helmet.name=Бамбуковый шлем
+item.erebus.bamboo_chestplate.name=Бамбуковый нагрудник
+item.erebus.bamboo_leggings.name=Бамбуковые поножи
+item.erebus.bamboo_boots.name=Бамбуковые ботинки
+
+item.erebus.exoskeleton_helmet.name=Экзоскелетный шлем
+item.erebus.exoskeleton_chestplate.name=Экзоскелетный нагрудник
+item.erebus.exoskeleton_leggings.name=Экзоскелетные поножи
+item.erebus.exoskeleton_boots.name=Экзоскелетные ботинки
+
+item.erebus.rein_exoskeleton_helmet.name=Усиленный экзоскелетный шлем
+item.erebus.rein_exoskeleton_chestplate.name=Усиленный экзоскелетный нагрудник
+item.erebus.rein_exoskeleton_leggings.name=Усиленные экзоскелетные поножи
+item.erebus.rein_exoskeleton_boots.name=Усиленные экзоскелетные ботинки
+
+item.erebus.rhino_exoskeleton_helmet.name=Носорожий шлем
+item.erebus.rhino_exoskeleton_chestplate.name=Носорожий нагрудник
+item.erebus.rhino_exoskeleton_leggings.name=Носорожьи поножи
+item.erebus.rhino_exoskeleton_boots.name=Носорожьи ботинки
+
+item.erebus.jade_helmet.name=Нефритовый шлем
+item.erebus.jade_chestplate.name=Нефритовый нагрудник
+item.erebus.jade_leggings.name=Нефритовые поножи
+item.erebus.jade_boots.name=Нефритовые ботинки
+
+item.erebus.jade_sword.name=Нефритовый меч
+item.erebus.jade_pickaxe.name=Нефритовая кирка
+item.erebus.jade_axe.name=Нефритовый топор
+item.erebus.jade_shovel.name=Нефритовая лопата
+item.erebus.jade_paxel.name=Нефритовый паксель
+item.erebus.jade_hoe.name=Нефритовый мотыга
+
+item.erebus.compound_goggles.name=Фасеточные очки
+item.erebus.rein_compound_goggles.name=Усиленные фасеточные очки
+item.erebus.jump_boots.name=Прыжковые ботинки
+item.erebus.sprint_leggings.name=Спринтовые поножи
+item.erebus.spider_t_shirt.name=Трофей босса тарантула
+item.erebus.mushroom_helmet.name=Грибовый шлем
+item.erebus.water_striders.name=Водные страйдеры
+item.erebus.glider_chestplate_powered.name=Нагрудник рабочего планёра
+item.erebus.glider_chestplate.name=Нагрудник планёра
+item.erebus.enhanced_scorpion_pincer.name=Удлинённое жало скорпиона
+item.erebus.war_hammer.name=Молот землетрясения
+item.erebus.web_slinger.name=Паутиновый ткач
+item.erebus.web_slinger_wither.name=Паутиновый ткач иссушителя
+item.erebus.max_speed_bow.name=Лук максимальной скорости
+
+# Shields
+item.erebus.bamboo_shield.name=Бамбуковый щит
+item.erebus.exoskeleton_shield.name=Экзоскелетный щит
+item.erebus.jade_shield.name=Нефритовый щит
+item.erebus.rein_exoskeleton_shield.name=Усиленный экзоскелетный щит
+item.erebus.rhino_exoskeleton_shield.name=Носорожий щит
+
+# Misc
+item.erebus.wand_of_animation.name=Жезл анимации
+item.erebus.wand_of_preservation.name=Жезл консервирования
+item.erebus.portal_activator.name=Посох гиан
+item.erebus.woodlouse_ball.name=Шар мокрицы
+item.erebus.nectar_collector.name=Сборщик нектара
+item.erebus.ant_taming_amulet.name=Амулет укрощения муравья
+item.erebus.bee_taming_amulet.name=Амулет укрощения пчелы
+item.erebus.wasp_sword.name=Осиный меч
+item.erebus.wasp_dagger.name=Осиный кинжал
+item.erebus.anti_venom_bottle.name=Бутылка анти-яда
+item.erebus.death_compass.name=Компас смерти
+item.erebus.rolled_newspaper.name=Свёрнутая газета
+item.erebus.bambucket.name=Бамбакетт
+item.erebus.bambucket.filled.name=%s Бамбакетт
+item.erebus.homing_beecon.name=Самонаводящиеся пчелы
+item.erebus.homing_beecon_advanced.name=Продвинутые самонаводящиеся пчелы
+item.erebus.spray_can.name=Средство от насекомых
+item.erebus.whetstone.name=Точильный камень
+item.erebus.compost.name=Компост
+item.erebus.planticide.name=Плантицид
+item.erebus.smoothie_book.name=Смузи-матик 2000
+item.erebus.horn_of_summoning.name=Рог пчелы призыва
+
+item.erebus.idols.idol_mud.name=Грязевой скарабей
+item.erebus.idols.idol_iron.name=Железный скарабей
+item.erebus.idols.idol_gold.name=Золотой скарабей
+item.erebus.idols.idol_jade.name=Нефритовый скарабей
+
+item.erebus.idols.idol_mud_umbergolem.name=Яйцо призыва - Грязевой умберголем
+item.erebus.idols.idol_iron_umbergolem.name=Яйцо призыва - Железный умберголем
+item.erebus.idols.idol_gold_umbergolem.name=Яйцо призыва - Золотой умберголем
+item.erebus.idols.idol_jade_umbergolem.name=Яйцо призыва - Нефритовый умберголем
+
+item.erebus.erebus_map.name=Пустая карта папируса (Н.П.Р)
+item.erebus.erebus_map_filled.name=Карта папируса (Н.П.Р)
+
+# Plants
+item.erebus.turnip.name=Репа
+item.erebus.cabbage_seeds.name=Семена капусты
+item.erebus.mandrake_root.name=Корень мандрагоры
+item.erebus.flower_seed_black.name=Семена чёрного цветка
+item.erebus.flower_seed_red.name=Семена красного цветка
+item.erebus.flower_seed_brown.name=Семена коричневого цветка
+item.erebus.flower_seed_blue.name=Семена синего цветка
+item.erebus.flower_seed_purple.name=Семена фиолетового цветка
+item.erebus.flower_seed_cyan.name=Семена сине-зелёного цветка
+item.erebus.flower_seed_light_gray.name=Семена светло-серого цветка
+item.erebus.flower_seed_gray.name=Семена серого цветка
+item.erebus.flower_seed_pink.name=Семена розового цветка
+item.erebus.flower_seed_yellow.name=Семена жёлтого цветка
+item.erebus.flower_seed_light_blue.name=Семена светло-синего цветка
+item.erebus.flower_seed_magenta.name=Семена пурпурного цветка
+item.erebus.flower_seed_orange.name=Семена оранжевого цветка
+item.erebus.flower_seed_white.name=Семена белого цветка
+item.erebus.flower_seed_rainbow.name=Семена радужного цветка
+
+item.erebus.life_blood.name=Кровь жизни
+item.erebus.heart_berries.name=Ягоды сердца
+item.erebus.stag_heart_raw.name=Сердце оленя
+item.erebus.stag_heart_cooked.name=Жареное сердце оленя
+
+##########
+# BLOCKS #
+##########
+
+# Umberstone
+tile.erebus.umberstone.umberstone.name=Умбер камень
+tile.erebus.umberstone.umbercobble.name=Умбер булыжник
+tile.erebus.umberstone.umbercobble_mossy.name=Замшелый умбер булыжник
+tile.erebus.umberstone.umbercobble_webbed.name=Сросшийся умбер булыжник
+tile.erebus.umberstone.umberstone_bricks.name=Умбер кирпичи
+tile.erebus.umberstone.umbertile_smooth.name=Гладкий умбертиль
+tile.erebus.umberstone.umbertile_smooth_small.name=Маленький умбертиль
+tile.erebus.umbergravel.name=Умберпебли
+tile.erebus.umberpaver.umberpaver.name=Умберпавер
+tile.erebus.umberpaver.umberpaver_mossy.name=Замшелый умберпавер
+tile.erebus.umberpaver.umberpaver_webbed.name=Сросшийся умберпавер
+tile.erebus.umberstone_pillar.name=Умберпилон
+tile.erebus.volcanic_rock.name=Вулканический камень
+tile.erebus.dust.name=Пыль
+tile.erebus.dust_layer.name=Слой пыли
+tile.erebus.petrified_wood_rock.name=Камень окаменелого дерева
+tile.erebus.petrified_wood_rock_2.name=Камень окаменелого дерева
+tile.erebus.petrified_wood_rock_3.name=Камень окаменелого дерева
+tile.erebus.petrified_wood_rock_4.name=Камень окаменелого дерева
+tile.erebus.petrified_wood_rock_5.name=Камень окаменелого дерева
+tile.erebus.petrified_wood_rock_6.name=Камень окаменелого дерева
+tile.erebus.petrified_bark_red.name=Окаменелая кора красного цвета
+tile.erebus.petrified_bark_brown.name=Окаменелая кора коричневого цвета
+tile.erebus.petrified_log_inner.name=Камень окаменелого сердца
+tile.erebus.dung.name=Помёт
+
+# Amber
+tile.erebus.amber.name=Янтарь
+tile.erebus.amber_bricks.name=Янтарные кирпичи
+tile.erebus.amber_glass.name=Янтарное стелко
+tile.erebus.preserved_block.amber.name=Консервированный блок янтаря
+tile.erebus.preserved_block.amber_glass.name=Консервированный блок янтаря
+tile.erebus.glowing_jar.name=Светящийся кувшин
+tile.erebus.fluid_jar.name=Кувшин
+tile.erebus.door_amber.name=Янтарная дверь
+
+# Ores
+tile.erebus.ore_iron.name=Железная руда
+tile.erebus.ore_gold.name=Золотая руда
+tile.erebus.ore_diamond.name=Алмазная руда
+tile.erebus.ore_emerald.name=Изумрудная руда
+tile.erebus.ore_lapis.name=Руда лазурита
+tile.erebus.ore_quartz.name=Кварцевая руда
+tile.erebus.ore_coal.name=Угольная руда
+tile.erebus.ore_copper.name=Медная руда
+tile.erebus.ore_tin.name=Оловянная руда
+tile.erebus.ore_silver.name=Серебряная руда
+tile.erebus.ore_aluminium.name=Алюминиевая руда
+tile.erebus.ore_lead.name=Свинцовая руда
+tile.erebus.ore_jade.name=Нефритовая руда
+tile.erebus.ore_encrusted_diamond.name=Вулканическая алмазная руда
+tile.erebus.ore_fossil.name=Окаменелая руда
+tile.erebus.ore_gneiss.name=Гнейсовая руда
+tile.erebus.ore_petrified_wood.name=Руда окаменелого дерева
+tile.erebus.ore_temple.name=Храмовая руда
+tile.erebus.ore_petrified_quartz.name=Окаменевшая кварцевая руда
+
+# Logs
+tile.erebus.log_baobab.name=Баобаб
+tile.erebus.log_eucalyptus.name=Эвкалипт
+tile.erebus.log_mahogany.name=Красное дерево
+tile.erebus.log_mossbark.name=Моссбарк
+tile.erebus.log_asper.name=Аспер
+tile.erebus.log_cypress.name=Кипарис
+tile.erebus.log_balsam.name=Бальса
+tile.erebus.log_balsam_resinless.name=Бальса без смолы
+tile.erebus.log_rotten.name=Гнилое дерево
+tile.erebus.log_marshwood.name=Маршвуд
+tile.erebus.log_scorched.name=Выжженное дерево
+tile.erebus.log_bamboo.name=Колоссальный бамбук
+tile.erebus.hollow_log.name=Бревно полой акации
+
+# Saplings
+tile.erebus.sapling_mossbark.name=Саженец моссбарка
+tile.erebus.sapling_asper.name=Саженец аспера
+tile.erebus.sapling_eucalyptus.name=Саженец эвкалипта
+tile.erebus.sapling_mahogany.name=Саженец красного дерева
+tile.erebus.sapling_balsam.name=Саженец бальса
+tile.erebus.sapling_baobab.name=Саженец баобаба
+tile.erebus.sapling_marshwood.name=Саженец маршвуда
+tile.erebus.sapling_cypress.name=Саженец кипариса
+tile.erebus.sapling_bamboo.name=Саженец колоссального бамбука
+
+# Leaves
+tile.erebus.leaves_mossbark.name=Листья моссбарк
+tile.erebus.leaves_asper.name=Листья аспер
+tile.erebus.leaves_eucalyptus.name=Листья эвкалипта
+tile.erebus.leaves_mahogany.name=Листья красного дерева
+tile.erebus.leaves_balsam.name=Листья бальса
+tile.erebus.leaves_baobab.name=Листья баобаб
+tile.erebus.leaves_marshwood.name=Листья маршвуда
+tile.erebus.leaves_cypress.name=Листья кипариса
+
+# Planks
+tile.erebus.planks_baobab.name=Баобабовые доски
+tile.erebus.planks_eucalyptus.name=Эвкалиптовые доски
+tile.erebus.planks_mahogany.name=Доски красного дерева
+tile.erebus.planks_mossbark.name=Доски моссбарка
+tile.erebus.planks_asper.name=Доски аспера
+tile.erebus.planks_cypress.name=Доски кипариса
+tile.erebus.planks_balsam.name=Доски бальса
+tile.erebus.planks_white.name=Белые доски
+tile.erebus.planks_bamboo.name=Бамбуковые доски
+tile.erebus.planks_rotten.name=Гнилые доски
+tile.erebus.planks_marshwood.name=Доски маршвуда
+tile.erebus.planks_scorched.name=Выжженные доски
+tile.erebus.planks_varnished.name=Лакированные доски
+tile.erebus.planks_petrified_wood.name=Доски окаменелого дерева
+
+# Slabs Plank 
+tile.erebus.slab_planks_baobab.name=Баобабовая плита
+tile.erebus.slab_planks_eucalyptus.name=Эвкалиптовая плита
+tile.erebus.slab_planks_mahogany.name=Плита из красного дерева
+tile.erebus.slab_planks_mossbark.name=Плита моссбарка
+tile.erebus.slab_planks_asper.name=Плита аспера
+tile.erebus.slab_planks_cypress.name=Плита кипариса
+tile.erebus.slab_planks_balsam.name=Плита бальса
+tile.erebus.slab_planks_white.name=Плита из белого дерева
+tile.erebus.slab_planks_bamboo.name=Плита из бамбука
+tile.erebus.slab_planks_rotten.name=Плита из гнилого дерева
+tile.erebus.slab_planks_marshwood.name=Плита маршвуда
+tile.erebus.slab_planks_scorched.name=Плита из выжженой древесины
+tile.erebus.slab_planks_varnished.name=Лакированная плита
+tile.erebus.slab_planks_petrified_wood.name=Плита окаменелого дерева
+
+# Slabs Stone
+tile.erebus.slab_umberstone.name=Плита умбер камня
+tile.erebus.slab_umbercobble.name=Плита умбер булыжника
+tile.erebus.slab_umbercobble_mossy.name=Плита замшелого умбер булыжника
+tile.erebus.slab_umbercobble_webbed.name=Плита сросшегося умбер булыжника
+tile.erebus.slab_umberstone_bricks.name=Плита из кирпича умбера
+tile.erebus.slab_umbertile_smooth.name=Плита из гладкого умбертиля
+tile.erebus.slab_umbertile_smooth_small.name=Плита из маленького умбертиля
+tile.erebus.slab_umberpaver.name=Плита умберпавера
+tile.erebus.slab_umberpaver_mossy.name=Плита замшелого умберпавера
+tile.erebus.slab_umberpaver_webbed.name=Плита сросшегося умберпавера
+tile.erebus.slab_amber.name=Янтарная плита
+tile.erebus.slab_amber_bricks.name=Плита из янтарного кирпича
+tile.erebus.slab_mud_bricks.name=Плита из грязевого кирпича
+tile.erebus.slab_mir_bricks.name=Плита из кирпича мира
+
+# Stairs Wood
+tile.erebus.stairs_baobab.name=Ступеньки баобаба
+tile.erebus.stairs_eucalyptus.name=Ступеньки эвкалипта
+tile.erebus.stairs_mahogany.name=Ступеньки из красного дерева
+tile.erebus.stairs_mossbark.name=Ступеньки моссбарка
+tile.erebus.stairs_asper.name=Ступеньки аспера
+tile.erebus.stairs_cypress.name=Ступеньки кипариса
+tile.erebus.stairs_balsam.name=Ступеньки бальса
+tile.erebus.stairs_white.name=Ступеньки из белого дерева
+tile.erebus.stairs_bamboo.name=Ступеньки бамбука
+tile.erebus.stairs_rotten.name=Ступеньки из гнилой древесины
+tile.erebus.stairs_marshwood.name=Ступеньки маршвуда
+tile.erebus.stairs_scorched.name=Ступеньки из выжженой древесины
+tile.erebus.stairs_varnished.name=Лакированные ступеньки
+tile.erebus.stairs_petrified_wood.name=Ступеньки окаменелого дерева
+
+# Stairs Stone
+tile.erebus.stairs_umberstone.name=Ступеньки умбер камня
+tile.erebus.stairs_umbercobble.name=Ступеньки умбер булыжника
+tile.erebus.stairs_umbercobble_mossy.name=Ступеньки замшелого умбер булыжника
+tile.erebus.stairs_umbercobble_webbed.name=Ступеньки сросшегося умбер булыжника
+tile.erebus.stairs_umberstone_bricks.name=Ступеньки из кирпича умбера
+tile.erebus.stairs_umbertile_smooth.name=Ступеньки из гладкого умбертиля
+tile.erebus.stairs_umbertile_smooth_small.name=Ступеньки из маленького умбертиля
+tile.erebus.stairs_umberpaver.name=Ступеньки умберпавера
+tile.erebus.stairs_umberpaver_mossy.name=Ступеньки замшелого умберпавера
+tile.erebus.stairs_umberpaver_webbed.name=Ступеньки сросшегося умберпавера
+tile.erebus.stairs_amber.name=Янтарные ступеньки
+tile.erebus.stairs_amber_bricks.name=Ступеньки из янтарного кирпича
+tile.erebus.stairs_mud_bricks.name=Ступеньки из грязевого кирпича
+tile.erebus.stairs_mir_bricks.name=Ступеньки из кирпича мира
+
+# Doors
+tile.erebus.door_baobab.name=Дверь из баобаба
+tile.erebus.door_eucalyptus.name=Дверь из эвкалипта
+tile.erebus.door_mahogany.name=Дверь из красного дерева
+tile.erebus.door_mossbark.name=Дверь из моссбарка
+tile.erebus.door_asper.name=Дверь из аспера
+tile.erebus.door_cypress.name=Дверь из кипариса
+tile.erebus.door_rotten.name=Дверь из гнилого дерева
+tile.erebus.door_marshwood.name=Дверь из маршвуда
+tile.erebus.door_scorched.name=Дверь из выжженой древесины
+tile.erebus.door_petrified_wood.name=Дверь из окаменелого дерева
+
+# Fences
+tile.erebus.fence_baobab.name=Забор из баобаба
+tile.erebus.fence_eucalyptus.name=Забор из эвкалипта
+tile.erebus.fence_mahogany.name=Забор из красного дерева
+tile.erebus.fence_mossbark.name=Забор из моссбарка
+tile.erebus.fence_asper.name=Забор из аспера
+tile.erebus.fence_cypress.name=Забор из кипариса
+tile.erebus.fence_balsam.name=Забор из бальса
+tile.erebus.fence_white.name=Забор из белого дерева
+tile.erebus.fence_bamboo.name=Забор из бамбука
+tile.erebus.fence_rotten.name=Забор из гнилого дерева
+tile.erebus.fence_marshwood.name=Забор из маршвуда
+tile.erebus.fence_scorched.name=Забор из выжженой древесины
+tile.erebus.fence_varnished.name=Забор из окаменелого дерева
+
+# Fence Gates
+tile.erebus.fence_gate_baobab.name=Калитка из баобаба
+tile.erebus.fence_gate_eucalyptus.name=Калитка из эвкалипта
+tile.erebus.fence_gate_mahogany.name=Калитка из красного дерева
+tile.erebus.fence_gate_mossbark.name=Калитка из моссбарка
+tile.erebus.fence_gate_asper.name=Калитка из аспера
+tile.erebus.fence_gate_cypress.name=Калитка из кипариса
+tile.erebus.fence_gate_balsam.name=Калитка из бальса
+tile.erebus.fence_gate_white.name=Калитка из белого дерева
+tile.erebus.fence_gate_bamboo.name=Калитка из бамбука
+tile.erebus.fence_gate_rotten.name=Калитка из гнилого дерева
+tile.erebus.fence_gate_marshwood.name=Калитка из маршвуда
+tile.erebus.fence_gate_scorched.name=Калитка из выжженой древесины
+tile.erebus.fence_gate_varnished.name=Калитка из окаменелого дерева
+
+# Walls
+tile.erebus.wall_umberstone.name=Ограда из умбер камня
+tile.erebus.wall_umbercobble.name=Ограда из умбер булыжника
+tile.erebus.wall_umbercobble_mossy.name=Ограда из замшелого умбер булыжника
+tile.erebus.wall_umbercobble_webbed.name=Ограда из сросшегося умбер булыжника
+tile.erebus.wall_umberstone_bricks.name=Ограда из кирпича умбера
+tile.erebus.wall_umbertile_smooth.name=Ограда из умбертиля
+tile.erebus.wall_umbertile_smooth_small.name=Ограда  из маленького умбертиля
+tile.erebus.wall_amber.name=Янтарные ограда
+tile.erebus.wall_amber_bricks.name=Ограда из янтарного кирпича
+tile.erebus.wall_umberpaver.name=Ограда умберпавера
+tile.erebus.wall_umberpaver_mossy.name=Ограда замшелого умберпавера
+tile.erebus.wall_umberpaver_webbed.name=Ограда сросшегося умберпавера
+
+# Plants
+tile.erebus.crop_turnip.name=Репа
+tile.erebus.crop_cabbage.name=Капуста
+tile.erebus.crop_mandrake.name=Мандрагора
+tile.erebus.heart_berry_bush.name=Куст ягодного сердца
+tile.erebus.jade_berry_bush.name=Куст нефритовой ягоды
+tile.erebus.swamp_berry_bush.name=Куст болотной ягоды
+tile.erebus.dark_fruit_vine.name=Тёмная фруктовая лоза
+tile.erebus.prickly_pear.name=Кактус опунции
+tile.erebus.dark_capped_mushroom.name=Тёмный гриб
+tile.erebus.dutch_cap_mushroom.name=Голландский гриб
+tile.erebus.grandmas_shoes_mushroom.name=Гриб бабушкиной обуви
+tile.erebus.kaizers_fingers_mushroom.name=Гриб пальцев кайзер
+tile.erebus.sarcastic_czech_mushroom.name=Саркастический чешский гриб
+tile.erebus.dark_capped_mushroom_block.name=Тёмнокрытый грибной блок
+tile.erebus.dutch_cap_mushroom_block.name=Грибной блок голландского колпака
+tile.erebus.grandmas_shoes_mushroom_block.name=Грибной блок бабушкиной обуви
+tile.erebus.kaizers_fingers_mushroom_block.name=Грибной блок пальцев кайзер
+tile.erebus.sarcastic_czech_mushroom_block.name=Грибной блок саркастического чешского гриба
+tile.erebus.small_plant.desert_shrub.name=Пустынный куст 
+tile.erebus.small_plant.mireCoral.name=Светящийся болотный сорняк
+tile.erebus.small_plant.nettle.name=Крапива
+tile.erebus.small_plant.nettle_flowered.name=Цветущая крапива
+tile.erebus.small_plant.swamp_plant.name=Болотное растение
+tile.erebus.small_plant.fire_bloom.name=Огнецвет
+tile.erebus.small_plant.fern.name=Папоротник
+tile.erebus.small_plant.fiddle_head.name=Побег папоротника
+tile.erebus.thorns.name=Шипы
+tile.erebus.wall_plants.moss_down.name=Мох
+tile.erebus.wall_plants.mould_down.name=Плесень
+tile.erebus.wall_plants_cultivated.moss_down_cultivated.name=Обработанный мох
+tile.erebus.wall_plants_cultivated.mould_down_cultivated.name=Обработанная плесень
+tile.erebus.algae.name=Болотные водоросли
+tile.erebus.glowshroom.name=Светящийся гриб
+tile.erebus.glowshroom_stalk_main.name=Стебель светящегося гриба
+tile.erebus.hanging_web.name=Висячая паутина
+
+# Flowers
+tile.erebus.giant_flower.petal_black.name=Блок чёрного лепестка
+tile.erebus.giant_flower.petal_red.name=Блок красного лепестка
+tile.erebus.giant_flower.petal_brown.name=Блок коричневого лепестка
+tile.erebus.giant_flower.petal_blue.name=Блок синего лепестка
+tile.erebus.giant_flower.petal_purple.name=Блок фиолетового лепестка
+tile.erebus.giant_flower.petal_cyan.name=Блок сине-зелёного лепестка
+tile.erebus.giant_flower.petal_light_gray.name=Блок светло-серого лепестка
+tile.erebus.giant_flower.petal_gray.name=Блок серого лепестка
+tile.erebus.giant_flower.petal_pink.name=Блок розового лепестка
+tile.erebus.giant_flower.petal_yellow.name=Блок жёлтого лепестка
+tile.erebus.giant_flower.petal_light_blue.name=Блок светло-синего лепестка
+tile.erebus.giant_flower.petal_magenta.name=Блок пурпурного лепестка
+tile.erebus.giant_flower.petal_orange.name=Блок оранжевого лепестка
+tile.erebus.giant_flower.petal_white.name=Блок белого лепестка
+tile.erebus.giant_flower.exploding_stigma.name=Взрывающаяся стигма
+tile.erebus.giant_flower.stem.name=Ствол
+tile.erebus.giant_flower_stigma.stigma_black.name=Чёрная стигма
+tile.erebus.giant_flower_stigma.stigma_red.name=Красная стигма
+tile.erebus.giant_flower_stigma.stigma_brown.name=Коричневая стигма
+tile.erebus.giant_flower_stigma.stigma_blue.name=Синяя стигма
+tile.erebus.giant_flower_stigma.stigma_purple.name=Фиолетовая стигма
+tile.erebus.giant_flower_stigma.stigma_cyan.name=Сине-зелёная стигма
+tile.erebus.giant_flower_stigma.stigma_light_gray.name=Светло-серая стигма
+tile.erebus.giant_flower_stigma.stigma_gray.name=Серая стигма
+tile.erebus.giant_flower_stigma.stigma_pink.name=Розовая стигма
+tile.erebus.giant_flower_stigma.stigma_yellow.name=Жёлтая стигма
+tile.erebus.giant_flower_stigma.stigma_light_blue.name=Светло-синяя стигма
+tile.erebus.giant_flower_stigma.stigma_magenta.name=Пурпурая стигма
+tile.erebus.giant_flower_stigma.stigma_orange.name=Оранжевая стигма
+tile.erebus.giant_flower_stigma.stigma_white.name=Белая стигма
+tile.erebus.giant_flower_stigma.stigma_rainbow.name=Радужная стигма
+tile.erebus.planted_flower.flower_black.name=Чёрный цветок
+tile.erebus.planted_flower.flower_red.name=Красный цветок
+tile.erebus.planted_flower.flower_brown.name=Коричневый цветок
+tile.erebus.planted_flower.flower_blue.name=Синий цветок
+tile.erebus.planted_flower.flower_purple.name=Фиолетовый цветок
+tile.erebus.planted_flower.flower_cyan.name=Сине-зелёный цветок
+tile.erebus.planted_flower.flower_light_gray.name=Светло-серый цветок
+tile.erebus.planted_flower.flower_gray.name=Серый цветок
+tile.erebus.planted_flower.flower_pink.name=Розовый цветок
+tile.erebus.planted_flower.flower_yellow.name=Жёлтый цветок
+tile.erebus.planted_flower.flower_light_blue.name=Светло-синий цветок
+tile.erebus.planted_flower.flower_magenta.name=Пурпурный цветок
+tile.erebus.planted_flower.flower_orange.name=Оранжевый цветок
+tile.erebus.planted_flower.flower_white.name=Белый цветок
+tile.erebus.planted_flower.flower_rainbow.name=Радужный цветок
+tile.erebus.giant_lily_pad.name=Гигантская лилия
+
+# Flowers Double height
+tile.erebus.double_plant.bullrush.name=Буллраш
+tile.erebus.double_plant.weeping_bluebell.name=Плачущий колокольчик
+tile.erebus.double_plant.sundew.name=Росянка
+tile.erebus.double_plant.droughted_shrub.name=Засушенный куст
+tile.erebus.double_plant.tall_bloom.name=Высокий блум
+tile.erebus.double_plant.tangled_stalk_mushroom.name=Гриб запутанного стебля
+tile.erebus.double_plant.high_capped_mushroom.name=Высоко покрытый гриб
+tile.erebus.double_plant.tall_fern.name=Высокий папоротник
+
+# Other
+tile.erebus.portal.name=Портальный блок Erebus
+tile.erebus.gaean_keystone.name=Ключевой камень гиана
+tile.erebus.jade_block.name=Блок нефрита
+tile.erebus.mud.name=Грязь
+tile.erebus.quick_sand.name=Зыбучий песок
+tile.erebus.ghost_sand.name=Призрачный песок
+tile.erebus.swamp_vent.name=Болотный клапан
+tile.erebus.gneiss_vent.name=Гнейс клапан
+tile.erebus.red_gem.red_gem.name=Ред гем
+tile.erebus.red_gem.red_lamp_off.name=Лампа из ред гема
+tile.erebus.red_gem.red_lamp_on.name=Лампа из ред гема
+tile.erebus.wither_web.name=Паутина иссушителя
+tile.erebus.gneiss.gneiss.name=Гнейс
+tile.erebus.gneiss.gneiss_carved.name=Резной гнейс
+tile.erebus.gneiss.gneiss_relief.name=Слоистый гнейс
+tile.erebus.gneiss.gneiss_bricks.name=Кирпич гнейс
+tile.erebus.gneiss.gneiss_smooth.name=Гладкий гнейс
+tile.erebus.gneiss.gneiss_tiles.name=Плитка гнейс
+tile.erebus.gneiss.gneiss_tiles_cracked.name=Сломаная плитка гнейс
+tile.erebus.temple_brick.name=Карпич храма
+tile.erebus.temple_pillar.name=Пилон храма
+tile.erebus.temple_tile.name=Плитка храма
+tile.erebus.silk.name=Нить
+tile.erebus.mir_brick.name=Мир кирпич
+tile.erebus.mud_brick.name=Грязевой кирпич
+tile.erebus.rein_exo.name=Усиленные экзо блоки
+tile.erebus.velocity_block.name=Блок скорости
+tile.erebus.lightning_speed_block.name=Блок молниеносной скорости
+tile.erebus.block_of_bones.name=Блок О' Кости
+tile.erebus.antlion_egg.name=Яйцо муравьиного льва
+tile.erebus.tarantula_egg.name=Яйцо тарантула
+tile.erebus.honey_treat.name=Медовое лечение
+tile.erebus.wasp_nest.name=Осиное гнездо
+tile.erebus.stairs_wasp_nest.name=Ступеньки из осиного гнезда
+tile.erebus.insect_repellent.name=Средство от насекомых
+
+# Spawners
+tile.erebus.antlion_spawner.name=Спаунер Муравьиных львов
+tile.erebus.dragon_fly_spawner.name=Спаунер Стрекоз
+tile.erebus.jumping_spider_spawner.name=Спаунер Прыгающих пауков
+tile.erebus.spider_spawner.name=Спаунер Пауков-плевак
+tile.erebus.tarantula_spawner.name=Спаунер Тарантулов
+tile.erebus.wasp_spawner.name=Спаунер Ос
+tile.erebus.zombie_ant_spawner.name=Спаунер Зомби муравьёв
+tile.erebus.zombie_ant_soldier_spawner.name=Спаунер Зомби муравьёв-солдат
+tile.erebus.magma_crawler_spawner.name=Спаунер Гусениц магмы
+tile.erebus.dung_spawner_bot_fly.name=Спаунер Оводов
+tile.erebus.dung_spawner_fly.name=Спаунер Мух
+tile.erebus.locust_spawner.name=Спаунер Саранчи
+
+# Utility Blocks
+tile.erebus.petrified_crafting_table.name=Окаменелый верстак
+tile.erebus.petrified_wood_chest.name=Сундук из окаменелого дерева
+tile.erebus.bamboo_crate.name=Бамбуковый ящик
+tile.erebus.bamboo_crate.default.name=Бамбуковый ящик
+tile.erebus.bamboo_crate.btl.name=БамбуковыйЯщик
+tile.erebus.bamboo_crate.btr.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.bbl.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.bbr.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.ttl.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.ttr.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.tbl.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_crate.tbr.name=Колоссальный бамбуковый ящик
+tile.erebus.bamboo_bridge.name=Бамбуковый мост
+tile.erebus.bamboo_ladder.name=Бамбуковый лестница
+tile.erebus.bamboo_nerd_pole.name=Бамбуковый нерд полл
+tile.erebus.bamboo_extender.name=Бамбуковый удлинитель
+tile.erebus.bamboo_torch.name=Бамбуковый факел
+tile.erebus.bamboo_pipe.name=Бамбуковая жидкостная труба
+tile.erebus.bamboo_pipe_extract.name=Бамбуковая труба для извлечения жидкости
+tile.erebus.bamboo_pipe_extract_active.name=Бамбуковая труба для извлечения жидкости
+tile.erebus.silo_roof.name=Крыша силоса
+tile.erebus.silo_tank.silo_inactive.name=Цистерна силоса
+tile.erebus.silo_tank.silo_active.name=Цистерна силоса
+tile.erebus.silo_supports.name=Опора силоса
+tile.erebus.honey_comb.name=Медовая бомба
+tile.erebus.composter.name=Органический компостер
+tile.erebus.smoothie_maker.name=ErebusCo. Смузи-матик 2000
+tile.erebus.umber_furnace.name=Печь умбера
+tile.erebus.umber_furnace_active.name=Печь умбера
+tile.erebus.umberstone_button.name=Кнопка умбер камня
+tile.erebus.liquifier.name=Медовый ликвификатор
+tile.erebus.glow_gem_active.name=Светящийся самоцвет
+tile.erebus.glow_gem_inactive.name=Светящийся самоцвет
+tile.erebus.mucus_bomb.name=Слизистая бомба
+tile.erebus.umber_golem_statue.name=Статуя умберголема
+
+tile.erebus.altar_base.name=Основание алтаря
+tile.erebus.altar_lightning.name=Алтарь молний
+tile.erebus.altar_healing.name=Алтарь исцеления
+tile.erebus.altar_xp.name=Алтарь опыта
+tile.erebus.altar_repair.name=Алтарь починки
+tile.erebus.altar_offering.name=Алтарь подношения
+
+# Antlion Dungeon
+tile.erebus.capstone.capstone.name=Капстоун
+tile.erebus.capstone.capstone_mud.name=Грязевой капстоун
+tile.erebus.capstone.capstone_iron.name=Железный капстоун
+tile.erebus.capstone.capstone_gold.name=Золотой капстоун
+tile.erebus.capstone.capstone_jade.name=Нефритовый капстоун
+tile.erebus.capstone.capstone_mud_active.name=Активный грязевой капстоун
+tile.erebus.capstone.capstone_iron_active.name=Активный железный капстоун 
+tile.erebus.capstone.capstone_gold_active.name=Активный золотой капстоун 
+tile.erebus.capstone.capstone_jade_active.name=Активный нефритовый капстоун 
+
+tile.erebus.temple_brick_unbreaking.temple_brick.name=Храмовый кирпич
+tile.erebus.temple_brick_unbreaking.temple_brick_jade.name=Нефритовый слот
+tile.erebus.temple_brick_unbreaking.temple_brick_exo.name=Слот экзоскелета
+tile.erebus.temple_brick_unbreaking.temple_brick_cream.name=Слот крема магмической гусеницы
+tile.erebus.temple_brick_unbreaking.temple_brick_eye.name=Слот глаза магмической гусеницы
+tile.erebus.temple_brick_unbreaking.temple_brick_string.name=Строчный слот
+
+tile.erebus.temple_brick_unbreaking.temple_brick_jade_active.name=Активный нефритовый слот
+tile.erebus.temple_brick_unbreaking.temple_brick_exo_active.name=Активный слот экзоскелета
+tile.erebus.temple_brick_unbreaking.temple_brick_cream_active.name=Активный слот крема магмической гусеницы
+tile.erebus.temple_brick_unbreaking.temple_brick_eye_active.name=Активный слот глаза магмической гусеницы
+tile.erebus.temple_brick_unbreaking.temple_brick_string_active.name=Активный строчный слот
+
+tile.erebus.temple_teleporter.temple_teleport_0.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_1.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_2.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_3.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_4.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_5.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_ne.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_nw.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_se.name=Храмовый телепортер
+tile.erebus.temple_teleporter.temple_teleport_sw.name=Храмовый телепортер
+tile.erebus.force_field.name=Силовой щит
+tile.erebus.force_lock.name=Силовой замок (Н.П.Р.)
+
+tile.erebus.ant_hill_block.name=Муравейник (Н.П.Р.)
+
+##############
+# Containers #
+##############
+
+container.bambooCrate=Бамбуковый ящик
+container.colossalCrate=Бамбуковый ящик
+container.umberFurnace=Печь умбера
+container.petrifiedWoodChest=Сундук из окаменелого дерева
+container.petrifiedChestDouble=Большой сундук из окаменелого дерева
+container.extenderThingy=Бамбуковый удлинитель
+container.antInventory=Муравьиное управление
+container.composter=Органический компостер
+container.silo=Расположение силоса
+container.animatedChest=Честер
+container.animatedBambooCrate=Бамбер
+
+############
+# Entities #
+############
+
+entity.erebus.beetle_larva.name=Личинка жука
+entity.erebus.wasp.name=Оса
+entity.erebus.centipede.name=Сороконожка
+entity.erebus.beetle.name=Жук
+entity.erebus.fly.name=Муха
+entity.erebus.mosquito.name=Москит
+entity.erebus.tarantula.name=Тарантул
+entity.erebus.velvet_worm.name=Бархатный червь
+entity.erebus.bot_fly.name=Овод
+entity.erebus.black_widow.name=Чёрная вдова
+entity.erebus.scorpion.name=Скорпион
+entity.erebus.grasshopper.name=Кузнечик
+entity.erebus.locust.name=Саранча
+entity.erebus.solifuge.name=Сольпуга
+entity.erebus.moth.name=Моль
+entity.erebus.antlion.name=Муравьиный лев
+entity.erebus.glow_worm.name=Светлячок
+entity.erebus.scytodes.name=Паук-плевак
+entity.erebus.money_spider.name=Линифииды
+entity.erebus.praying_mantis.name=Богомол
+entity.erebus.jumping_spider.name=Прыжковый паук
+entity.erebus.fire_ant.name=Огненный муравей
+entity.erebus.rhino_beetle.name=Жук-носорог
+entity.erebus.worker_bee.name=Пчела-рабочий
+entity.erebus.dragon_fly.name=Стрекоза
+entity.erebus.blood_snail.name=Улитка
+entity.erebus.titan_beetle.name=Титановый жук
+entity.erebus.bot_fly_larva.name=Личинка овода
+entity.erebus.fungal_weevil.name=Ложнослоник
+entity.erebus.crop_weevil.name=Урожайный ложнослоник
+entity.erebus.woodlouse.name=Мокрица
+entity.erebus.cicada.name=Цикада
+entity.erebus.fire_ant_soldier.name=Огненный муравей-солдат
+entity.erebus.lava_web_spider.name=Лавовый паук-ткач
+entity.erebus.antlion_mini_boss.name=Страж муравьинных львов
+entity.erebus.chameleon_tick.name=Клещ хамелеона
+entity.erebus.solifuge_small.name=Малый сольпуга
+entity.erebus.midge_swarm.name=Рой мошек
+entity.erebus.punchroom.name=Панчрум
+entity.erebus.crushroom.name=Крашрум
+entity.erebus.black_ant.name=Чёрный муравей
+entity.erebus.zombie_ant.name=Муравей зомби
+entity.erebus.tarantula_mini_boss.name=Мать выводка тарантутов
+entity.erebus.tarantula_baby.name=Ребёнок тарантула
+entity.erebus.leech.name=Пиявка
+entity.erebus.pond_skater.name=Водомерки
+entity.erebus.wisp.name=Блуждающий огнёк
+entity.erebus.bog_maw.name=Болотная пасть
+entity.erebus.magma_crawler.name=Гусеница магмы
+entity.erebus.umber_golem_idol.name=Умберголем страж идола
+entity.erebus.antlion_boss.name=Муравьиный лев владыка
+entity.erebus.bombardier_beetle.name=Жук бомбардир
+entity.erebus.animated_chest.name=Честер
+entity.erebus.animated_bamboo_crate.name=Бамбер
+entity.erebus.animated_block.name=Анимированный блок
+entity.erebus.honey_pot_ant.name=Медовый муравей
+entity.erebus.bombardier_beetle_larva.name=Личинка жука бомбардира
+entity.erebus.zombie_ant_soldier.name=Зомби муравей солдат
+entity.erebus.bed_bug.name=Постельный клоп
+entity.erebus.stag_beetle.name=Жук-олень
+entity.erebus.gas_vent.name=Газовое пламя болота
+entity.erebus.umber_golem.name=Умберголем
+
+##########
+# Fluids #
+##########
+
+tile.erebus.formic_acid.name=Муравьиная кислота
+tile.erebus.honey.name=Мёд
+
+fluid.honey=Мёд
+fluid.beetle_juice=Сок жука
+fluid.anti_venom=Анти-яд
+fluid.milk=Молоко
+fluid.formic_acid=Муравьиная кислота
+
+#################
+# CREATIVE TABS #
+#################
+
+itemGroup.erebus.items=Предметы Erebus
+itemGroup.erebus.blocks=Блоки Erebus
+itemGroup.erebus.gear=Снаряжение Erebus
+itemGroup.erebus.plants=Растения Erebus
+
+############
+# Tooltips #
+############
+
+tooltip.erebus.dimension=Измерение: %s
+tooltip.erebus.targetx=Цель X: %s
+tooltip.erebus.targety=Цель Y: %s
+tooltip.erebus.targetz=Цель Z: %s
+tooltip.erebus.time_of_death=Время смерти: %s
+tooltip.erebus.homingbeeconadvanced_1=Присядьте + ПКМ по блоку, чтобы установить в качестве цели.
+tooltip.erebus.homingbeeconadvanced_2=Щелкните правой кнопкой мыши, чтобы телепортироваться.
+tooltip.erebus.homingbeecon=Присядьте + Клик по блоку, чтобы установить в качестве цели.
+tooltip.erebus.deathcompass=Дано Игроку после смерти, чтобы найти Блок О' Кости.
+tooltip.erebus.warhammer_1=Удерживайте правую кнопку мыши, чтобы зарядить.
+tooltip.erebus.warhammer_2=Присядьте + ПКМ по блоку, чтобы использовать атаку по области.
+tooltip.erebus.waspdagger_1=Одно использование.
+tooltip.erebus.waspdagger_2=Можно бросить.
+tooltip.erebus.honeycombx=Медовый блок сот X: %s
+tooltip.erebus.honeycomby=Медовый блок сот Y: %s
+tooltip.erebus.honeycombz=Медовый блок сот Z: %s
+tooltip.erebus.beetamingamulet_1=Нажмите на сотовый блок, чтобы установить в качестве цели для пчелиных капель.
+tooltip.erebus.beetamingamulet_2=Затем нажмите на пчелу, чтобы приручить.
+tooltip.erebus.siloblockx=Блок силоса X: %s
+tooltip.erebus.siloblocky=Блок силоса Y: %s
+tooltip.erebus.siloblockz=Блок силоса Z: %s
+tooltip.erebus.anttamingamulet_1=Нажмите по блоку силоса, чтобы установить в качестве цели для муравьев.
+tooltip.erebus.anttamingamulet_2=Затем нажмите на муравья, чтобы соединить его.
+tooltip.erebus.sprintleggingstier=Уровень %s
+tooltip.erebus.whetstonesharpness=Уровень остроты %s
+tooltip.erebus.whetstone_1=Применить к инструментам с помощью наковальни.
+tooltip.erebus.whetstone_2=Незачарованно
+tooltip.erebus.whetstone_3=Обложите с помощью Порошка точильного камня, чтобы увеличить уровень.
+tooltip.erebus.nectarcollector=Щелкните ПКМ, на Пчелах, чтобы собрать нектар.
+tooltip.erebus.wandofanimation=Щелкните ПКМ по блоку, чтобы анимировать его.
+tooltip.erebus.extractor=Наведите курсор на блок и удерживайте правую кнопку мыши, чтобы извлечь их.
+tooltip.erebus.scorpionpincer=Может стрелять огненными зарядами, если есть в вашем инвентаре.
+tooltip.erebus.heals=Лечит 10 сердец при потреблении. Всегда съедобный.
+tooltip.erebus.feeds=Заполняет шкалу голода при потреблении. Всегда съедобный.
+tooltip.erebus.poweredglider=Требуется редгем блоки как топливо для полета.
+tooltip.erebus.gliderglidekey=Клавиша скольжения
+tooltip.erebus.gliderpoweredkey=Клавиша полёта
+tooltip.erebus.bamboopipe=Очень обычная направленная труба для жидкости.
+tooltip.erebus.bamboopipeextract=Извлекает жидкости из емкостей с жидкостью и проталкивает их в трубы и емкости с жидкостью.
+tooltip.erebus.bamboopipewrench=Используйте на любой бамбуковой трубе, чтобы вращать её, или Использовать + Присесть, чтобы установить её.
+tooltip.erebus.liquifier=Превращает медовые капли в жидкий мёд. Редстоун активирован.
+tooltip.erebus.glowgem=Поместите на ЛЮБУЮ сторону сплошного блока в качестве источника света. Щелкните ПКМ, чтобы выключить и включить.
+tooltip.erebus.mushhelm=Держит вас сытым во время ношения за счет долговечности. Отремонтирован на наковальне с большими грибными блоками.
+tooltip.erebus.planticide=Удаляет Растения, Листья и Кусты в области 5x5x5!
+tooltip.erebus.healinghearts=Лечит небольшое кол-во здоровья при потреблении.
+tooltip.erebus.nightvision=Позволяет вам видеть в темноте.
+tooltip.erebus.jumpboots=Позволяет прыгать на 4 блока.
+tooltip.erebus.waterstriders=Позволяет вам ходить по воде.
+tooltip.erebus.compost=Работает так же, как костная мука мистер.
+tooltip.erebus.hornsummon=Призывает некоторых пчёл.
+tooltip.erebus.spraycan=Используйте на верхней части блоков, чтобы держать противных противников подальше.
+tooltip.erebus.wandofpreservation=Стреляет янтарными звездами и захватывает мобов. Шелк касается блока, чтобы собрать или сломать, чтобы освободить толпу.
+tooltip.erebus.webslinger=Может стрелять паутиной, если есть в вашем инвентаре.
+tooltip.erebus.force_key=Н.П.Р.
+
+##########
+# Others #
+##########
+
+erebus.smoothie.effect.milk=Очищение эффектов
+erebus.smoothie.effect.extinguish=Тушение огня
+erebus.smoothie.effect.set_fire=Создание огня
+erebus.smoothie.effect.heal=Исцеление
+key.erebus.glide=Скольжение
+key.erebus.poweredglide=Подъем глайдера
+key.erebus.beetleram=Атаковать жуком-рам
+key.erebus.beetlemine=Копать жуком-оленем
+
+#################
+# Smoothie Book #
+#################
+
+erebus.book.smoothie.0=\u00A70Спасибо за использование нового ErebusCo. Смузи-матик 2000.\nНа следующих страницах вы найдете несколько вкусных рецептов.\n\nКаждый рецепт потребует различной жидкости. Жидкостные стержни, показанные в графическом интерфейсе, предназначены для: Мёда, Сока-жука, Анти-Яда и Молока.
+erebus.book.smoothie.1=\u00A70Жидкости могут быть добавлены в Смузи-матик 2000 щелкнув правой кнопкой мыши по блоку с полным ведром.\n\nЧетыре верхних слота в графическом интерфейсе предназначены для необходимых ингредиентов, а нижний слот должен содержать стакан смузи.
+erebus.book.smoothie.2=\u00A79Зелёный чай из кузнечика\n\n\u00A70Лапка кузнечика x2\nЭластичное волокно\nКрыло мухи\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nПрыгание
+erebus.book.smoothie.3=\u00A79Линифиид\n\n\u00A70Капля мёда x2\nНектар\nЗолотой самородок\n\n\u00A7dМёд\n\n\u00A74Эффекты:\nРегенерация
+erebus.book.smoothie.4=\u00A79Тьма в середине\n\n\u00A70Порошок камуфляжа x2\nТёмный фрукт\nБолотная ягода\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nНевидимость
+erebus.book.smoothie.5=\u00A79Зелёный гигант\n\n\u00A70Репеллент\nЯдовитая железа x2\nЖало осы\n\n\u00A7dАнти-яд\n\n\u00A74Эффекты:\nОчищает эффекты
+erebus.book.smoothie.6=\u00A79Зерновое божество\n\n\u00A70Семена тыквы\nСемена дыни\nСемена тёмных фруктов\nБио-скорость\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nСкорость копания
+erebus.book.smoothie.7=\u00A79Дающий мне блюз\n\n\u00A70Лепесток колокольчика x2\nЛазурит x2\n\n\u00A7dМолоко\n\n\u00A74Эффекты:\nТушение
+erebus.book.smoothie.8=\u00A79Горячий-горячий\n\n\u00A70Огнецвет x2\nЖало осы\nКорень болотной пасти\n\n\u00A7dАнти-яд\n\n\u00A74Эффекты:\nСила
+erebus.book.smoothie.9=\u00A79Не вмешивайся в крапиву\n\n\u00A70Крапивный лист\nЦветок крапивы\nНефритовые ягоды\nЭкзо скелет\n\n\u00A7dМёд\n\n\u00A74Эффекты:\nСопротивление
+erebus.book.smoothie.10=\u00A79Жидкое золото\n\n\u00A70Кровь жизни x2\nБамбуковый побег\nСверкающая дыня\n\n\u00A7dМолоко\n\n\u00A74Эффекты:\nНасыщение
+erebus.book.smoothie.11=\u00A79Пивной брюф\n\n\u00A70Терпси гриб\nРепа\nФасеточные глаза\nЯгоды сердца\n\n\u00A7dМёд\n\u00A7dСок жука\n\u00A7dАнти-яд\n\u00A7dМолоко\n\n\u00A74Эффекты:\nМогучее усиление
+erebus.book.smoothie.12=\u00A79Мелонад\n\n\u00A70Ломтик дыни\n\n\u00A7dВода\n\n\u00A74Эффекты:\nОсвежение
+erebus.book.smoothie.13=\u00A79Блестящий мелонад\n\n\u00A70Светящийся ломтик дыни\n\n\u00A7dВода\n\n\u00A74Эффекты:\nМалая регенерация
+erebus.book.smoothie.14=\u00A79Анти-ядовый бамбакетт\n\n\u00A70Бамбакетт\n\n\u00A70Листья крапивы x2\n\n\u00A70Ядовитые железы x2\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nНевосприимчивость к яду
+erebus.book.smoothie.15=\u00A79Анти-ядовая бутылка\n\n\u00A70Пустая бутылка\n\n\u00A70Крапивы лист\n\n\u00A70Ядовитая железа\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nНевосприимчивость к яду
+erebus.book.smoothie.16=\u00A79Анти-ядовое ведро\n\n\u00A70Ведро\n\n\u00A70Листья крапивы x2\n\n\u00A70Ядовитые железы x2\n\n\u00A7dСок жука\n\n\u00A74Эффекты:\nЗаполненное ведро
+
+################
+# Advancements #
+################
+
+# Exploration
+advancement.erebus.exploration.root=The Erebus
+advancement.erebus.exploration.root.desc=Путешествуйте в давно затерянный мир: The Erebus.
+
+advancement.erebus.exploration.arborist=Навязчивый лесовод
+advancement.erebus.exploration.arborist.desc=Соберите все различные саженцы деревьев, родных для the Erebus.
+advancement.erebus.exploration.traveller=Путешественник никогда не прибывает
+advancement.erebus.exploration.traveller.desc=Пропутешествуйте ко всем биомам, которые может предложить Erebus.
+advancement.erebus.exploration.quicksand=Пусть я утону
+advancement.erebus.exploration.quicksand.desc=Застряньте в каких-то зыбучих песках.
+
+advancement.erebus.exploration.smoothie_all=Энтузиаст смузи
+advancement.erebus.exploration.smoothie_all.desc=Заварите все 10 видов смузи.
+advancement.erebus.exploration.smoothiebook=Меню
+advancement.erebus.exploration.smoothiebook.desc=Чтобы получить руководство по смузи, щелкните правой кнопкой мыши по Смузи-матик 2000 с пустой книгой.
+advancement.erebus.exploration.smoothiemaker=Для сокоголовых
+advancement.erebus.exploration.smoothiemaker.desc=Создайте ErebusCo. Смузи-матик 2000, все права защищены.
+advancement.erebus.exploration.antivenom=Просто открой рот
+advancement.erebus.exploration.antivenom.desc=Заварите немного Анти-яда в Смузи-матик.
+
+advancement.erebus.exploration.jade_ore=Какой это оттенок зелёного?
+advancement.erebus.exploration.jade_ore.desc=Получите нефрит.
+advancement.erebus.exploration.jade_set=Крайний нефрит
+advancement.erebus.exploration.jade_set.desc=Получите все четыре части набора нефритовой брони и нефритового пакселя.
+
+advancement.erebus.exploration.petrified_chest=Я люблю большие сундуки
+advancement.erebus.exploration.petrified_chest.desc=Создайте сундук из окаменелого дерева, дорогой, но более вместимый сундук.
+advancement.erebus.exploration.petrified_wood=Очень твёрдая древесина
+advancement.erebus.exploration.petrified_wood.desc=Получите окаменелое дерево.
+
+advancement.erebus.exploration.entomology=Агрессивная энтомология
+advancement.erebus.exploration.entomology.desc=Убей существо, родом из Erebus.
+advancement.erebus.exploration.kill_all=Борьба с вредителями
+advancement.erebus.exploration.kill_all.desc=Убейте всех обычных мобов, которых может предложить Erebus.
+
+advancement.erebus.exploration.find_beetles=Встреча с жуками!
+advancement.erebus.exploration.find_beetles.desc=Имейте несколько встречу встречу с любым из жуков или их личинками.
+
+advancement.erebus.exploration.beetlejuice=Альфа Орионис
+advancement.erebus.exploration.beetlejuice.desc=Подоите жука, чтобы получить сок жука, аналог Erebus к молоку.
+advancement.erebus.exploration.beetledrink=Налил, выпил
+advancement.erebus.exploration.beetledrink.desc=Выпейте весь сок жука в бамбакетте. Да, вам не послышалось.
+
+advancement.erebus.exploration.titan_beetle=Титаномахия
+advancement.erebus.exploration.titan_beetle.desc=Убейте Титанового Жука и получите его плоть.
+advancement.erebus.exploration.titan_stew=Итадакимас
+advancement.erebus.exploration.titan_stew.desc=Приготовь себе рагу из Титана, самое питательное блюдо, которое ты когда-либо ел.
+
+advancement.erebus.exploration.rhino_beetle=Это браконьерство
+advancement.erebus.exploration.rhino_beetle.desc=Убейте Жука-носорога и получите его экзоскелет и рог.
+advancement.erebus.exploration.rhino_exo_set=Тяжеловесный
+advancement.erebus.exploration.rhino_exo_set.desc=Создайте весь набор экипировки из носорога, включая щит.
+
+advancement.erebus.exploration.exo_set=Чувство беспозвоночных
+advancement.erebus.exploration.exo_set.desc=Получите все четыре части набора брони экзоскелета и щита экзоскелета.
+advancement.erebus.exploration.reinexo_set=Истина в том... Что я человек экзо
+advancement.erebus.exploration.reinexo_set.desc=Получите все четыре части набора усиленного экзоскелета и усиленного щита экзоскелета.
+
+advancement.erebus.exploration.planticide=Более эффективен, чем гербицид
+advancement.erebus.exploration.planticide.desc=Смешайте немного Плантицида, чтобы уничтожить растение.
+advancement.erebus.exploration.poison_sac=Ваше жестокое устройство
+advancement.erebus.exploration.poison_sac.desc=Получите яд саквояж из внутренностей одного из многих ядовитых тварей, населяющих Erebus.
+
+advancement.erebus.exploration.repellent=Совершенно отталкивающий
+advancement.erebus.exploration.repellent.desc=Возьми в руки немного репеллента.
+advancement.erebus.exploration.spray_can=Убирайся! Артрот
+advancement.erebus.exploration.spray_can.desc=Создайте средство от насекомых.
+
+advancement.erebus.exploration.stung=Мальчик с рогом на боку
+advancement.erebus.exploration.stung.desc=Получите укус от осы или скорпиона.
+
+advancement.erebus.exploration.water_repellent=Почему так гидрофобно, фанатик?
+advancement.erebus.exploration.water_repellent.desc=Приобретите немного Гидрофьюджа для создания водного репеллента.
+advancement.erebus.exploration.water_striders=Личный Иисус
+advancement.erebus.exploration.water_striders.desc=Создайте несколько водных страйдеров.
+
+advancement.erebus.exploration.whetstone=Оттачивай свои мысли
+advancement.erebus.exploration.whetstone.desc=Возьмите в руки немного Порошка точильного камня и примените его к незачарованному Точильному камню.
+advancement.erebus.exploration.woodlouse=Сюрприз, чтобы быть уверенным
+advancement.erebus.exploration.woodlouse.desc=Встретьте и убейте Мокрицу.
+advancement.erebus.exploration.woodlouse_ball=Мяч убийцы
+advancement.erebus.exploration.woodlouse_ball.desc=Поймайте Мокрицу, щелкнув по ней правой кнопкой мыши.
+advancement.erebus.exploration.newspaper=Новости Мира
+advancement.erebus.exploration.newspaper.desc=Зачаруйте немного папируса с чернилами и точильным порошком, чтобы выпускать газеты с невероятными возможностями.
+
+# Agriculture
+advancement.erebus.agriculture.root=Подземное земледелие
+advancement.erebus.agriculture.root.desc=Несмотря на то, что солнце здесь не светит, есть ещё много растений, которые можно найти. Погрузитесь в удивительный мир подземного земледелия!
+
+advancement.erebus.agriculture.varnished_planks=Сопротивляйся этим надоедливым личинкам
+advancement.erebus.agriculture.varnished_planks.desc=Создай лакированные доски.
+advancement.erebus.agriculture.silo=Каждой ферме нужен один
+advancement.erebus.agriculture.silo.desc=Создайте три части мультиблока силоса.
+advancement.erebus.agriculture.ant_amulet=Получение Муравьишек
+advancement.erebus.agriculture.ant_amulet.desc=Создайте амулет укрощения муравьев и приручите муравья.
+
+advancement.erebus.agriculture.nectar=Сладкая победа
+advancement.erebus.agriculture.nectar.desc=Получить немного нектара, попросив несколько пчел лезвием вашего оружия.
+
+advancement.erebus.agriculture.honey=Я люблю тебя, Медовый мишка
+advancement.erebus.agriculture.honey.desc=Используйте Нектар, который вы получили, чтобы создать Мёд.
+advancement.erebus.agriculture.honeyfoods=Что сегодня на ужин, дорогая?
+advancement.erebus.agriculture.honeyfoods.desc=Приготовьте себе замечательную еду, приготовив все связанные с мёдом продукты.
+
+advancement.erebus.agriculture.honeycomb=Красота это...
+advancement.erebus.agriculture.honeycomb.desc=Построить медовую момбу.
+advancement.erebus.agriculture.bee_amulet=...В глазу пчеловода
+advancement.erebus.agriculture.bee_amulet.desc=Создайте амулет для укрощения пчел из нефрита и нектара.
+advancement.erebus.agriculture.spoon=Большая ложка
+advancement.erebus.agriculture.spoon.desc=Создайте собирателя нектара, простой, но оригинальный инструмент, позволяющий легко собирать нектар у пчёл.
+
+advancement.erebus.agriculture.beecon=Прямо там, где я прее-надлежу
+advancement.erebus.agriculture.beecon.desc=Используйте нектар, который вы приобретаете, чтобы создать самонаводящуюся пчелу, устройство, которое позволяет вам всегда найти дорогу назад.
+
+//СуперРутабага
+advancement.erebus.agriculture.turnip=SuperRutabaga 
+//This advancement is named after the person who designed the Erebus Turnips. I'd truly appreciate it if whomever localises this leaves this advancement name unchanged. Thank you in advance!
+advancement.erebus.agriculture.turnip.desc=Где-нибудь получить репу.
+advancement.erebus.agriculture.beetle_breed=Репа, чтобы заставить их превратиться
+advancement.erebus.agriculture.beetle_breed.desc=Приведите двух Жуков в настроение, кормя их самыми эротичными овощами - по крайней мере, по ним мы не судим.
+
+advancement.erebus.agriculture.bamboo=Колоссально Бамбукзлед
+advancement.erebus.agriculture.bamboo.desc=Получите в свои руки некоторые Колоссальные Бамбуковые и Колоссальные Бамбуковые Побеги.
+
+advancement.erebus.agriculture.bamboo_extender=Полностью расширенный UwU
+advancement.erebus.agriculture.bamboo_extender.desc=Создай Бамбуковый удлинитель.
+advancement.erebus.agriculture.bamboo_bridge=Дорога Семи Мостов
+advancement.erebus.agriculture.bamboo_bridge.desc=Создай Бамбуковый Мост.
+advancement.erebus.agriculture.nerd_pole=Пронзая небеса
+advancement.erebus.agriculture.nerd_pole.desc=Создай Бамбуковый нерд полл.
+
+advancement.erebus.agriculture.bamboo_crate=Сделайте Erebus Сундук снова
+advancement.erebus.agriculture.bamboo_crate.desc=Сделай себе бамбуковый ящик.
+advancement.erebus.agriculture.bamboo_soup=Когда едят ростки бамбука...
+advancement.erebus.agriculture.bamboo_soup.desc=Сделай себе немного бамбукового супа.
+advancement.erebus.agriculture.bamboo_plant=... помни кто их посадил.
+advancement.erebus.agriculture.bamboo_plant.desc=Посади колоссальный побег бамбука.
+
+# Portal Guide
+advancement.erebus.portal.root=Портал
+advancement.erebus.portal.root.desc=Мир ниже нашего, готов быть доступным...
+advancement.erebus.portal.altar=Связь с богами
+advancement.erebus.portal.altar.desc=Создать жертвенный алтарь.
+advancement.erebus.portal.gaean_gem=Подарок от нашей мамы
+advancement.erebus.portal.gaean_gem.desc=Предложите Алмаз, Изумруд и кусочек Обсидиана на Жертвенный алтарь и получите Жемчуг гиана.
+advancement.erebus.portal.portal_activator=Ключ и Замок
+advancement.erebus.portal.portal_activator.desc=Получить Посох гиана и Ключевой камень гиана.
+advancement.erebus.portal.portal=Строительство врат
+advancement.erebus.portal.portal.desc=Создайте портал Erebus, поместив листовые блоки любого типа в раму, и активируйте его, вставив Посох гиана в Ключевой камень гиана рядом с ним..
