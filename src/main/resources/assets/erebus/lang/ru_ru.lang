@@ -23,7 +23,7 @@ item.erebus.materials.supernatural_velocity.name=Сверхъестествен�
 item.erebus.materials.altar_fragment.name=Фрагмент алтаря
 item.erebus.materials.reinforced_plate_exo.name=Усиленная экзоскелетовая пластина
 item.erebus.materials.glider_wing.name=Крыло планёра
-item.erebus.materials.scorpion_pincer.name=Жало скорпиона
+item.erebus.materials.scorpion_pincer.name=Клешня скорпиона
 item.erebus.materials.camo_powder.name=Камуфляжный порошок
 item.erebus.materials.nectar.name=Нектар
 item.erebus.materials.honey_drip.name=Капля мёда
@@ -46,7 +46,7 @@ item.erebus.materials.rhino_beetle_horn.name=Рог жука-носорога
 item.erebus.materials.ant_pheromones.name=Феромоны муравья
 item.erebus.materials.gaean_gem.name=Жемчуг гиана
 item.erebus.materials.crimson_heart.name=Багровое сердце
-item.erebus.materials.resin.name=Древестная смола
+item.erebus.materials.resin.name=Древесная смола
 item.erebus.materials.amber_star.name=Янтарная звезда
 item.erebus.materials.ingot_aluminium.name=Алюминиевый слиток
 item.erebus.materials.ingot_copper.name=Медный слиток
@@ -105,7 +105,7 @@ item.erebus.smoothie.money_honey.name=Cмузи из мёда линифиида
 item.erebus.smoothie.nothing_in_the_middle.name=Ничего в середине смузи
 item.erebus.smoothie.green_giant.name=Зелёный гигантский смузи
 item.erebus.smoothie.seedy_goodness.name=Зерновой божественный смузи
-item.erebus.smoothie.givin_me_the_blues.name=Смузи дающий мне блюз
+item.erebus.smoothie.givin_me_the_blues.name=Смузи 'Givin' Me The Blues'
 item.erebus.smoothie.hot_hot_baby.name=Горячий-горячий смузи
 item.erebus.smoothie.dont_meddle_with_the_nettle.name=Не вмешивайся в крапиву смузи
 item.erebus.smoothie.liquid_gold.name=Жидкий золотой смузи
@@ -456,7 +456,7 @@ tile.erebus.wall_umbercobble_webbed.name=Ограда из сросшегося 
 tile.erebus.wall_umberstone_bricks.name=Ограда из кирпича умбера
 tile.erebus.wall_umbertile_smooth.name=Ограда из умбертиля
 tile.erebus.wall_umbertile_smooth_small.name=Ограда  из маленького умбертиля
-tile.erebus.wall_amber.name=Янтарные ограда
+tile.erebus.wall_amber.name=Янтарная ограда
 tile.erebus.wall_amber_bricks.name=Ограда из янтарного кирпича
 tile.erebus.wall_umberpaver.name=Ограда умберпавера
 tile.erebus.wall_umberpaver_mossy.name=Ограда замшелого умберпавера
@@ -578,7 +578,7 @@ tile.erebus.gneiss.gneiss_bricks.name=Кирпич гнейс
 tile.erebus.gneiss.gneiss_smooth.name=Гладкий гнейс
 tile.erebus.gneiss.gneiss_tiles.name=Плитка гнейс
 tile.erebus.gneiss.gneiss_tiles_cracked.name=Сломаная плитка гнейс
-tile.erebus.temple_brick.name=Карпич храма
+tile.erebus.temple_brick.name=Кирпич храма
 tile.erebus.temple_pillar.name=Пилон храма
 tile.erebus.temple_tile.name=Плитка храма
 tile.erebus.silk.name=Нить
@@ -634,7 +634,7 @@ tile.erebus.silo_roof.name=Крыша силоса
 tile.erebus.silo_tank.silo_inactive.name=Цистерна силоса
 tile.erebus.silo_tank.silo_active.name=Цистерна силоса
 tile.erebus.silo_supports.name=Опора силоса
-tile.erebus.honey_comb.name=Медовая бомба
+tile.erebus.honey_comb.name=Медовые соты
 tile.erebus.composter.name=Органический компостер
 tile.erebus.smoothie_maker.name=ErebusCo. Смузи-матик 2000
 tile.erebus.umber_furnace.name=Печь умбера
@@ -852,7 +852,7 @@ tooltip.erebus.waterstriders=Позволяет вам ходить по вод�
 tooltip.erebus.compost=Работает так же, как костная мука мистер.
 tooltip.erebus.hornsummon=Призывает некоторых пчёл.
 tooltip.erebus.spraycan=Используйте на верхней части блоков, чтобы держать противных противников подальше.
-tooltip.erebus.wandofpreservation=Стреляет янтарными звездами и захватывает мобов. Шелк касается блока, чтобы собрать или сломать, чтобы освободить толпу.
+tooltip.erebus.wandofpreservation=Стреляет янтарными звездами и захватывает мобов. Шелковым касанием соберите блок или сломайте, чтобы освободить толпу.
 tooltip.erebus.webslinger=Может стрелять паутиной, если есть в вашем инвентаре.
 tooltip.erebus.force_key=Н.П.Р.
 
@@ -866,7 +866,7 @@ erebus.smoothie.effect.set_fire=Создание огня
 erebus.smoothie.effect.heal=Исцеление
 key.erebus.glide=Скольжение
 key.erebus.poweredglide=Подъем глайдера
-key.erebus.beetleram=Атаковать жуком-рам
+key.erebus.beetleram=Таран жуком
 key.erebus.beetlemine=Копать жуком-оленем
 
 #################
@@ -899,7 +899,7 @@ erebus.book.smoothie.16=\u00A79Анти-ядовое ведро\n\n\u00A70Вед
 advancement.erebus.exploration.root=The Erebus
 advancement.erebus.exploration.root.desc=Путешествуйте в давно затерянный мир: The Erebus.
 
-advancement.erebus.exploration.arborist=Навязчивый лесовод
+advancement.erebus.exploration.arborist=Одержимый лесовод
 advancement.erebus.exploration.arborist.desc=Соберите все различные саженцы деревьев, родных для the Erebus.
 advancement.erebus.exploration.traveller=Путешественник никогда не прибывает
 advancement.erebus.exploration.traveller.desc=Пропутешествуйте ко всем биомам, которые может предложить Erebus.
@@ -931,7 +931,7 @@ advancement.erebus.exploration.kill_all=Борьба с вредителями
 advancement.erebus.exploration.kill_all.desc=Убейте всех обычных мобов, которых может предложить Erebus.
 
 advancement.erebus.exploration.find_beetles=Встреча с жуками!
-advancement.erebus.exploration.find_beetles.desc=Имейте несколько встречу встречу с любым из жуков или их личинками.
+advancement.erebus.exploration.find_beetles.desc=Переживите немного нехорошее столкновение с любым из жуков или их личинками.
 
 advancement.erebus.exploration.beetlejuice=Альфа Орионис
 advancement.erebus.exploration.beetlejuice.desc=Подоите жука, чтобы получить сок жука, аналог Erebus к молоку.
@@ -956,10 +956,10 @@ advancement.erebus.exploration.reinexo_set.desc=Получите все четы
 advancement.erebus.exploration.planticide=Более эффективен, чем гербицид
 advancement.erebus.exploration.planticide.desc=Смешайте немного Плантицида, чтобы уничтожить растение.
 advancement.erebus.exploration.poison_sac=Ваше жестокое устройство
-advancement.erebus.exploration.poison_sac.desc=Получите яд саквояж из внутренностей одного из многих ядовитых тварей, населяющих Erebus.
+advancement.erebus.exploration.poison_sac.desc=Получите мешочек яда.
 
 advancement.erebus.exploration.repellent=Совершенно отталкивающий
-advancement.erebus.exploration.repellent.desc=Возьми в руки немного репеллента.
+advancement.erebus.exploration.repellent.desc=Добудьте немного репеллента.
 advancement.erebus.exploration.spray_can=Убирайся! Артрот
 advancement.erebus.exploration.spray_can.desc=Создайте средство от насекомых.
 
@@ -972,7 +972,7 @@ advancement.erebus.exploration.water_striders=Личный Иисус
 advancement.erebus.exploration.water_striders.desc=Создайте несколько водных страйдеров.
 
 advancement.erebus.exploration.whetstone=Оттачивай свои мысли
-advancement.erebus.exploration.whetstone.desc=Возьмите в руки немного Порошка точильного камня и примените его к незачарованному Точильному камню.
+advancement.erebus.exploration.whetstone.desc=Добудьте Порошка из точильного камня и примените его к незачарованному Точильному камню.
 advancement.erebus.exploration.woodlouse=Сюрприз, чтобы быть уверенным
 advancement.erebus.exploration.woodlouse.desc=Встретьте и убейте Мокрицу.
 advancement.erebus.exploration.woodlouse_ball=Мяч убийцы
@@ -1000,7 +1000,7 @@ advancement.erebus.agriculture.honeyfoods=Что сегодня на ужин, �
 advancement.erebus.agriculture.honeyfoods.desc=Приготовьте себе замечательную еду, приготовив все связанные с мёдом продукты.
 
 advancement.erebus.agriculture.honeycomb=Красота это...
-advancement.erebus.agriculture.honeycomb.desc=Построить медовую момбу.
+advancement.erebus.agriculture.honeycomb.desc=Собрать медовые соты.
 advancement.erebus.agriculture.bee_amulet=...В глазу пчеловода
 advancement.erebus.agriculture.bee_amulet.desc=Создайте амулет для укрощения пчел из нефрита и нектара.
 advancement.erebus.agriculture.spoon=Большая ложка
@@ -1014,10 +1014,10 @@ advancement.erebus.agriculture.turnip=SuperRutabaga
 //This advancement is named after the person who designed the Erebus Turnips. I'd truly appreciate it if whomever localises this leaves this advancement name unchanged. Thank you in advance!
 advancement.erebus.agriculture.turnip.desc=Где-нибудь получить репу.
 advancement.erebus.agriculture.beetle_breed=Репа, чтобы заставить их превратиться
-advancement.erebus.agriculture.beetle_breed.desc=Приведите двух Жуков в настроение, кормя их самыми эротичными овощами - по крайней мере, по ним мы не судим.
+advancement.erebus.agriculture.beetle_breed.desc=Приведите двух Жуков в надлежащее настроение, кормя их самым эротичным из овощей. Для них, по крайней мере. Не нам судить.
 
 advancement.erebus.agriculture.bamboo=Колоссально Бамбукзлед
-advancement.erebus.agriculture.bamboo.desc=Получите в свои руки некоторые Колоссальные Бамбуковые и Колоссальные Бамбуковые Побеги.
+advancement.erebus.agriculture.bamboo.desc=Получите Колоссальный бамбук и Колоссальные Бамбуковые Побеги.
 
 advancement.erebus.agriculture.bamboo_extender=Полностью расширенный UwU
 advancement.erebus.agriculture.bamboo_extender.desc=Создай Бамбуковый удлинитель.
